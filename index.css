@@ -1070,3 +1070,114 @@ align-items:center;
 
 
 
+
+
+
+
+/* NOTICE BOARD */
+
+.notice-board{
+
+padding:80px 8%;
+
+text-align:center;
+
+background:#101d33;
+
+}
+
+.notice-card{
+
+background:rgba(255,255,255,.05);
+
+padding:30px;
+
+margin:25px auto;
+
+max-width:700px;
+
+border-radius:20px;
+
+border:1px solid rgba(255,255,255,.08);
+
+}
+
+
+/* TESTIMONIALS */
+
+.testimonials{
+
+padding:80px 8%;
+
+background:#0b1628;
+
+text-align:center;
+
+}
+
+.testimonial-card{
+
+background:rgba(255,255,255,.04);
+
+padding:35px;
+
+margin:20px auto;
+
+max-width:650px;
+
+border-radius:22px;
+
+}
+
+
+/* ADMISSION FORM */
+
+.admission-form{
+
+padding:90px 8%;
+
+text-align:center;
+
+}
+
+.admission-form form{
+
+display:flex;
+
+flex-direction:column;
+
+gap:18px;
+
+max-width:550px;
+
+margin:auto;
+
+}
+
+.admission-form input{
+
+padding:16px;
+
+border:none;
+
+border-radius:12px;
+
+}
+
+.admission-form button{
+
+padding:16px;
+
+border:none;
+
+border-radius:14px;
+
+background:#38bdf8;
+
+color:white;
+
+font-weight:700;
+
+cursor:pointer;
+
+}
