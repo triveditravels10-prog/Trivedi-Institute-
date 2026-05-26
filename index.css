@@ -1,6 +1,3 @@
-body{
-background:red !important;
-}
 
 
 /* =========================
@@ -1364,18 +1361,3 @@ margin-bottom:16px;
 
 
 
-
-
-.stats{
-background:yellow !important;
-}
-
-.programs{
-background:lime !important;
-}
-
-.hero-buttons button{
-background:red !important;
-color:white !important;
-font-size:25px !important;
-}
